@@ -20,4 +20,4 @@ Configs
 * JUnit: Integration Tests
 * JDK: Java 1.6+
 
-`Portuguese <https://github.com/edermag/app-demo-jetty/blob/master/README_pt_BR.md>`_
+`Portuguese <https://github.com/edermag/app-demo-jetty/blob/master/README_pt_BR.rst>`_

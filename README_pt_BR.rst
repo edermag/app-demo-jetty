@@ -20,5 +20,5 @@ Configs
 * JUnit: Testes integrados;
 * JDK: Java 1.6+
 
-`Em inglês <https://github.com/edermag/app-demo-jetty/blob/master/README.md>`_
+`Em inglês <https://github.com/edermag/app-demo-jetty/blob/master/README.rst>`_
 
